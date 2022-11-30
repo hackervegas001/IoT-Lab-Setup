@@ -1,6 +1,8 @@
-# IoT-Lab-Setup
+# IoT-Security/Development-Lab-Setup
 - Enterprise
 - Independent
+- Development
+
 
 
 This repo mainly helps to setup lab for enterprise and personal IoT Pentesting..
