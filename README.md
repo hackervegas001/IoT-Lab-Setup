@@ -1,7 +1,7 @@
 # IoT-Security/Development-Lab-Setup
-- Enterprise
-- Independent
-- Development
+- Enterprise  : this companies internally building their labs
+- Independent : independent researchers and enthusiastic people purpose 
+- Development : Secure development learning stuff including - but it will take time
 
 
 
